@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shree011
 - 👀 I’m interested in building
-- 🌱 I’m currently studing Computer Engineering at SPPU university
-- 💞️ I’m looking to collaborate with feilds like AI, ML, Data Scientist, Robotics
+- 🌱 I’m Computer Engineer
+- 💞️ I love to collaborate with feilds like AI, ML, Data Scientist, Robotics
 - 📫 Can reach me through whatsapp : +919325210736
 
 <!---
